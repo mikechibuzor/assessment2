@@ -50,7 +50,7 @@
     </header>
     <!-- main content -->
     <main
-      class="flex xl:-ml-8 -mt-3 md:-mt-6 px-8 md:px-16 lg:px-24 xl:px-32 items-center justify-center my-10"
+      class="flex xl:-ml-8 -mt-3 md:-mt-6 px-3 pb-10 md:px-16 lg:px-24 xl:px-32 items-center justify-center my-10"
     >
       <!-- if data gets loaded display this guy -->
       <div v-if="state.unsplashData" class="grid-box gap-x-8 gap-y-8 w-10/12">
