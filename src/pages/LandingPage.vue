@@ -43,7 +43,7 @@
         </div>
         <div v-if="searchState === 'search-successful'" class="searching-for">
           <h2 class="text-xl font-bold text-gray-600">
-            Searching Results for <span class="opacity-60">"{{ search }}"</span>
+            Search Results for <span class="opacity-60">"{{ search }}"</span>
           </h2>
         </div>
       </div>
